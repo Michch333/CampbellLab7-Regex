@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CampbellLab7(RegEx)/1.0.0": {
+        "runtime": {
+          "CampbellLab7(RegEx).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CampbellLab7(RegEx)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

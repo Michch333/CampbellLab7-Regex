@@ -1,0 +1,13 @@
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\bin\Debug\netcoreapp3.1\CampbellLab7(RegEx).exe
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\bin\Debug\netcoreapp3.1\CampbellLab7(RegEx).deps.json
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\bin\Debug\netcoreapp3.1\CampbellLab7(RegEx).runtimeconfig.json
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\bin\Debug\netcoreapp3.1\CampbellLab7(RegEx).runtimeconfig.dev.json
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\bin\Debug\netcoreapp3.1\CampbellLab7(RegEx).dll
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\bin\Debug\netcoreapp3.1\CampbellLab7(RegEx).pdb
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\obj\Debug\netcoreapp3.1\CampbellLab7(RegEx).csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\obj\Debug\netcoreapp3.1\CampbellLab7(RegEx).AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\obj\Debug\netcoreapp3.1\CampbellLab7(RegEx).AssemblyInfo.cs
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\obj\Debug\netcoreapp3.1\CampbellLab7(RegEx).csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\obj\Debug\netcoreapp3.1\CampbellLab7(RegEx).dll
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\obj\Debug\netcoreapp3.1\CampbellLab7(RegEx).pdb
+C:\Users\Mike\source\repos\CampbellLab7(RegEx)\CampbellLab7(RegEx)\obj\Debug\netcoreapp3.1\CampbellLab7(RegEx).genruntimeconfig.cache
