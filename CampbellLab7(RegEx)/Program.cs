@@ -9,7 +9,7 @@ namespace CampbellLab7_RegEx_
         {
             bool ValidName(string _name)
             {
-                Regex namePattern = new Regex(@"^[A-Z][a-z]{1,29}$");
+                Regex namePattern = new Regex(@"^[A-Z]{1}\w{1,29}$");
                 if (namePattern.IsMatch(_name))
                 {
                     return true;
