@@ -23,8 +23,8 @@ namespace CampbellLab7_RegEx_
 
             bool ValidEmail(string _email)
             {
-                Regex namePattern = new Regex(@"^([A-z]|[0-9]){5,30}@([A-z]|[0-9]){5,10}\.([A-z]|[0-9]){2,3}$");
-                if (namePattern.IsMatch(_email))
+                Regex emailPattern = new Regex(@"^([A-z]|[0-9]){5,30}@([A-z]|[0-9]){5,10}\.([A-z]|[0-9]){2,3}$");
+                if (emailPattern.IsMatch(_email))
                 {
                     return true;
                 }
@@ -36,8 +36,8 @@ namespace CampbellLab7_RegEx_
 
             bool ValidPhone(string _phoneNumber)
             {
-                Regex namePattern = new Regex(@"^\d{3}-\d{3}-\d{4}$");
-                if (namePattern.IsMatch(_phoneNumber))
+                Regex phonePattern = new Regex(@"^\d{3}-\d{3}-\d{4}$");
+                if (phonePattern.IsMatch(_phoneNumber))
                 {
                     return true;
                 }
@@ -49,8 +49,8 @@ namespace CampbellLab7_RegEx_
 
             bool ValidDate(string _date)
             {
-                Regex namePattern = new Regex(@"^([0-9]{2})/([0-9]{2})/([0-9]{4})$");
-                if (namePattern.IsMatch(_date))
+                Regex datePattern = new Regex(@"^([0-9]{2})/([0-9]{2})/([0-9]{4})$");
+                if (datePattern.IsMatch(_date))
                 {
                     return true;
                 }
